@@ -15,6 +15,10 @@ ConversaDocs is an innovative document management solution that enables users to
 2) Ask a Question: Enter your question in the designated text input field.
 3) Get Responses: Click the "Ask Question" button to receive responses based on the content of the uploaded documents.
 
+# Screenshots
+![Screenshot 2024-03-20 234947](https://github.com/KChandana29/CONVERSADOCS-PROJECT/assets/109425291/df3e66f1-ac62-4560-b6c8-6221df853d6c)
+
+
 
 
 
