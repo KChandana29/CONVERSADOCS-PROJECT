@@ -3,8 +3,11 @@ ConversaDocs is an innovative document management solution that enables users to
 
 # Features
 -> Natural Language Interaction: Users can ask questions and receive responses based on the content of uploaded documents.
+
 -> Support for Multiple Document Formats: ConversaDocs supports PDFs, PPTs, and DOCX files for versatile document management.
+
 -> Streamlined User Experience: Utilizing the Streamlit interface, ConversaDocs ensures intuitive navigation and analysis of documents.
+
 -> Intelligent Document Analysis: Through Langchain and Generative AI technologies, ConversaDocs offers intelligent insights and responses.
 
 # How to Use
